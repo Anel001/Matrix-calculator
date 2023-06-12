@@ -1,5 +1,7 @@
 # Matrix-calculator
 C++ and Qt Creator are required to run this app.
+![image](https://github.com/Anel001/Matrix-calculator/assets/92825585/86677f57-af04-41de-ae51-d13a7270d577)
+
 
 ## Features
 1. For single matrix:
